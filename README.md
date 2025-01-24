@@ -15,7 +15,7 @@ It provides the e-commerce store with actionable insights toward the optimizatio
 
 ### Tools
 - Excel: Data preparation, Cleaning, and Transformation.
-- Power BI: Data visualization and Analysis and Reporting.
+- Power BI: Data visualization, Analysis and Reporting.
 
 ### Workflow
 #### 1. Data Cleaning and Transformation:
