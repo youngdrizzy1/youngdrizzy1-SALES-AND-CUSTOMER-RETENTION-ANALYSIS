@@ -52,6 +52,8 @@ The dataset was cleaned and transformed by addressing duplicates, missing values
 #### 2. Customer Retention and Loyalty Performance
 - Retention Rate: 73.22% of the orders were from returning customers, which is indicative of high loyalty.
 - Repeat Buyers: 62.76% of the customers had more than one order, showing a very loyal customer base.
+  
+  ![Returning percentage](https://github.com/user-attachments/assets/50eab98a-cd93-49fb-a641-784dca6cdae9)
 
 #### 3.  Geographical Sales and Regional Performance
 - Top-Selling Regions: The West led the way with $8.08M in sales, followed by the East at $7.19M, Central at $5.87M, and the South at $4.10M.
